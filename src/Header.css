@@ -40,12 +40,16 @@
     justify-content: space-evenly;
 }
 
+.login__link {
+    text-decoration: none;
+}
 .header__option{
     display: flex;
     flex-direction: column;
     margin-left: 10px;
     margin-right: 10px;
     color: white;
+    text-decoration-line: none;
 }
 
 .header__optionLineOne{
