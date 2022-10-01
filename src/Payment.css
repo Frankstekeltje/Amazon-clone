@@ -29,3 +29,6 @@
 .payment__items {
     flex: 0.8;
 }
+.payment__details {
+    flex: 0.8;
+}
