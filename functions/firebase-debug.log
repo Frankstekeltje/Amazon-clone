@@ -1060,3 +1060,4 @@ Issues? Report them at https://github.com/firebase/firebase-tools/issues and att
     at listOnTimeout (node:internal/timers:559:17)
     at processTimers (node:internal/timers:502:7) {"metadata":{"emulator":{"name":"functions"},"message":{"name":"FirebaseError","children":[],"exit":1,"message":"Failed to load function.","status":500}}}
 [debug] [2022-10-01T13:44:18.786Z] [work-queue] {"queueLength":0,"workRunningCount":0}
+[debug] [2022-10-01T13:45:28.715Z] Received signal SIGHUP 1
